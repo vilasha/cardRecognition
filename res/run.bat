@@ -1,0 +1,1 @@
+java io.brainshells.Main "C:\Users\Maria\Downloads\java_test_task\imgs"
